@@ -48,18 +48,18 @@
     "@axe-core/playwright": "^4.12.1",
     "@playwright/test": "^1.60.0",
     "@sveltejs/adapter-static": "^3.0.10",
-    "@sveltejs/kit": "^2.70.1",
+    "@sveltejs/kit": "^2.70.3",
     "@sveltejs/package": "^2.5.5",
     "@sveltejs/vite-plugin-svelte": "^7.1.2",
-    "@types/node": "^24.0.0",
-    "jsdom": "^29.0.0",
-    "oxfmt": "^0.63.0",
-    "oxlint": "^1.78.0",
-    "publint": "^0.3.21",
-    "svelte": "^5.56.0",
+    "@types/node": "^26.3.0",
+    "jsdom": "^30.0.1",
+    "oxfmt": "^0.65.0",
+    "oxlint": "^1.80.0",
+    "publint": "^0.3.24",
+    "svelte": "^5.56.10",
     "svelte-check": "^4.3.0",
-    "typescript": "^5.9.3",
-    "vite": "^8.1.5",
-    "vitest": "^4.1.8"
+    "typescript": "^7.0.2",
+    "vite": "^8.2.2",
+    "vitest": "^4.1.11"
   }
 }

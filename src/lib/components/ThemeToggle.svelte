@@ -20,9 +20,9 @@
 <style>
   button {
     padding: 0.5rem 0.75rem;
-    border: 1px solid var(--example-color-line);
-    color: var(--example-color-ink);
-    background: var(--example-color-paper);
+    border: 1px solid var(--example-border);
+    color: var(--example-fg);
+    background: var(--example-bg);
     cursor: pointer;
   }
 </style>

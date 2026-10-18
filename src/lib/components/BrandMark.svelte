@@ -6,7 +6,7 @@
   let { href = '/' }: Props = $props();
 </script>
 
-<a {href} aria-label="Example, home"><span aria-hidden="true">E</span>Example</a>
+<a {href}><span aria-hidden="true">E</span>Example</a>
 
 <style>
   a {
